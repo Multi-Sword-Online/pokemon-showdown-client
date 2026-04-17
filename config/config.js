@@ -441,8 +441,8 @@ Config.customcolors = {
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: '10.2.0.101',
-	port: 8000,
+	host: 'showdown-api.mso.gg',
+	port: 443 ,
 	httpport: 8000,
 	altport: 80,
 	registered: true
